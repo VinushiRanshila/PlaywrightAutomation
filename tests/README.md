@@ -1,4 +1,4 @@
-#SauceDemo Checkout Automation Testing
+SauceDemo Checkout Automation Testing
 
 ## Project Overview
 
@@ -39,8 +39,8 @@ The following steps are automated:
 
 ## Test Credentials
 
- Username :standard_user
- Password : secret_sauce 
+Username: `standard_user`  
+Password: `secret_sauce`
 
 
 
